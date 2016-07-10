@@ -1,4 +1,4 @@
-﻿Sphinx
+﻿Sphinx on github
 ====================================
 
 	This section teaches you how to use Sphinx for the documentation.
