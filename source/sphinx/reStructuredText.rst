@@ -12,6 +12,8 @@ References
 
 #. `reStructuredText Primer <http://www.sphinx-doc.org/en/stable/rest.html>`_.
 
+#. `Restructured Text (reST) and Sphinx CheatSheet <http://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html#images-and-figures>`_.
+
 Learn from other documentation website
 -----------------------------------------------------
 	In my opinion, I think the best way to learn rst to maintain this documentation is simply copying/learning the syntax from other documentation websites that are built by Sphinx.

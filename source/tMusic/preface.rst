@@ -27,5 +27,8 @@ sgongoray@gmail.com
 billygongora@hotmail.com
 
 
+:math:`\alpha > \beta`
 
+.. math::
 
+    n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
