@@ -6,17 +6,34 @@
 Welcome to melodyGenerator's documentation!
 ===========================================
 
-Content:
+Sphinx:
 
 .. toctree::
    :maxdepth: 2
    
-   tMusic
-   sphinx
-   gitlab
-   intellij
-   templates/quickstart
-   templates/math
+   sphinx/preface
+   sphinx/gettingStart
+   sphinx/sphinxInWindow
+   sphinx/reStructuredText
+   sphinx/theme
+   sphinx/math
+   sphinx/readthedocs
+   
+Git:
+
+.. toctree::
+   :maxdepth: 2
+   
+   git/connection
+   git/learning
+   
+T-Music
+
+.. toctree::
+   :maxdepth: 2
+   
+   tMusic/preface
+   tMusic/related
 	
 
 Indices and tables
