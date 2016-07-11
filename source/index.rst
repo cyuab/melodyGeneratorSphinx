@@ -7,6 +7,7 @@ Welcome to melodyGenerator's documentation!
 ===========================================
 
 Sphinx:
+Testing
 
 .. toctree::
    :maxdepth: 2
