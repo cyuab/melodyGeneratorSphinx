@@ -24,6 +24,8 @@ Git:
 .. toctree::
    :maxdepth: 2
    
+   git/introduction
+   git/ignore
    git/connection
    git/learning
    

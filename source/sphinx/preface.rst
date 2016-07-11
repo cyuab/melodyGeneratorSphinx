@@ -11,6 +11,11 @@ Sphinx reads rst to generate different kinds of output, such as Latex (so as to 
 Hence, we simply need to learn rst to maintain/update this documentation website. If you want to learn how the outlook of the website looks like, you need to study the config of Sphinx. 
 	
 Finally, we also need the knowledge from a version control module "git" and a documentation hosting module called "readthedocs" to update the website from local machine to the remote machine.
+
+The following is an excellent introduction of Sphinx.
+
+	Introduction to Sphinx
+	http://www.writethedocs.org/guide/tools/sphinx/
 	
 References
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -10,6 +10,7 @@ References
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. `Quick reStructuredText <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.
 
+#. `reStructuredText Primer <http://www.sphinx-doc.org/en/stable/rest.html>`_.
 
 Learn from other documentation website
 -----------------------------------------------------
