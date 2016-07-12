@@ -30,7 +30,7 @@ http://www.codedata.com.tw/java/java-tutorial-the-2nd-class-2-container-flow/
 - JAVA - ArrayList用法、與Array的差別
 http://n198862320.pixnet.net/blog/post/34593403-java---arraylist%E7%94%A8%E6%B3%95%E3%80%81%E8%88%87array%E7%9A%84%E5%B7%AE%E5%88%A5
 
-Questions Coleman have asked in stackoverflow about this project
+Questions Coleman has asked in stackoverflow about this project
 -------------------------------------------------------------------
 -Solve this matching with exponential running time in brute force manner
 http://stackoverflow.com/questions/37225845/solve-this-matching-with-exponential-running-time-in-brute-force-manner

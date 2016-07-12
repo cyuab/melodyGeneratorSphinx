@@ -7,7 +7,10 @@ Welcome to Melody Generator: A Survival Guide!
 ================================================
 Author: Coleman
 
-Please keep the whole project in **confidential**.
+.. warning:: Please keep the whole project in **confidential**.
+
+There are 5 parts in this document. They are **T-Music**, **IntelliJ**, **Git**, **Sphinx** and **Miscellaneous**.
+
 
 T-Music:
 	
@@ -16,13 +19,15 @@ T-Music:
    
    tMusic/preface
    tMusic/related
+   tMusic/coleman
+   tMusic/writeLyrics
    tMusic/freqPatternMining
    tMusic/langDict
    tMusic/archive
    tMusic/toDo
    tMusic/miscellaneous
    
-Intellij:
+IntelliJ:
 
 .. toctree::
    :maxdepth: 2
