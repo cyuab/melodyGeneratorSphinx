@@ -3,41 +3,65 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to melodyGenerator's documentation!
-===========================================
+Welcome to Melody Generator: A Survival Guide!
+================================================
+Author: Coleman
 
-Sphinx:
-Testing
+Please keep the whole project in **confidential**.
+
+T-Music:
+	
+.. toctree::
+   :maxdepth: 2
+   
+   tMusic/preface
+   tMusic/related
+   tMusic/freqPatternMining
+   tMusic/langDict
+   tMusic/archive
+   tMusic/toDo
+   tMusic/miscellaneous
+   
+Intellij:
 
 .. toctree::
    :maxdepth: 2
    
-   sphinx/preface
-   sphinx/gettingStart
-   sphinx/sphinxInWindow
-   sphinx/reStructuredText
-   sphinx/theme
-   sphinx/math
-   sphinx/readthedocs
+   intellij/preface
+   intellij/hotkeys
+   intellij/miscellaneous
    
 Git:
 
 .. toctree::
    :maxdepth: 2
    
-   git/introduction
-   git/ignore
+   git/preface
+   git/access
    git/connection
-   git/learning
+   git/administration
+   git/miscellaneous
    
-T-Music
+Sphinx:
 
 .. toctree::
    :maxdepth: 2
    
-   tMusic/preface
-   tMusic/related
-	
+   sphinx/intro
+   sphinx/theme
+   sphinx/sphinxInWindow
+   sphinx/reStructuredText
+   sphinx/math
+   sphinx/readthedocs
+   
+Miscellaneous
+
+.. toctree::
+   :maxdepth: 2
+   
+   miscellaneous/command
+   miscellaneous/java
+ 
 
 Indices and tables
 ==================
