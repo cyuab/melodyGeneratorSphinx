@@ -24,7 +24,6 @@ T-Music:
    tMusic/freqPatternMining
    tMusic/langDict
    tMusic/archive
-   tMusic/toDo
    tMusic/miscellaneous
    
 IntelliJ:
